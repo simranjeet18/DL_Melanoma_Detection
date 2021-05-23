@@ -1,4 +1,4 @@
-# DL_Melanoma_Detection
+# Melanoma Detection
 
 
 In this assignment, you will build a multiclass classification model using a custom ___convolutional neural network in tensorflow.___     
